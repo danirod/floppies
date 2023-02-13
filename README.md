@@ -12,6 +12,7 @@ Some of the assets were provided via PR by:
 
 - @mucloma: RHEL
 - @mauriballes: Kubernetes
+- @xaviermazon: C, C++, Chrome, Chromium, MariaDB, Alpine, Android, Discord, GNOME, GNU, i3, KDE, MATE, MS-DOS, Nano, PostgreSQL, Tux, XFCE
 
 ## Contributing
 
